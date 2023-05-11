@@ -1,7 +1,7 @@
 # Coding1SP23
 A collection of C++ code from my Coding 1 class in the spring of 2023. Files also exist at https://replit.com/@vectorsoldier
 
-Adventure Game Class Solution (W4 Adventure Game) is a project that practiced do-while loops conducting attack vs block calculations and listing your HP until you die.  [Run it on Replit.] (https://replit.com/@vectorsoldier/Adventure-game-CLASS-solution?v=1)
+Adventure Game Class Solution (W4 Adventure Game) is a project that practiced do-while loops conducting attack vs block calculations and listing your HP until you die. [Run it on Replit.]    (https://replit.com/@vectorsoldier/Adventure-game-CLASS-solution?v=1)
 
 2-20 Bulk Add Teacher Solution HW (W6 Loops and Lists) is a project that tested loops, lists that the player can build an index for, and a bulk add function to add multiple games into the array.  [Run it on Replit.] (https://replit.com/@vectorsoldier/2-20-Bulk-Add-Teacher-Solution-HW?v=1)
 

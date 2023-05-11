@@ -13,4 +13,4 @@ Adventure Game Class Solution (W4 Adventure Game) is a project that practiced do
 
 4-19 read and write to text files (W14 C++ Files) is a project that practiced reading from and writing to text files.  [Run it on Replit.](https://replit.com/@vectorsoldier/4-19-read-and-write-to-text-files?v=1)
 
-4-24 Bulk add teacher solution (W15 Recap) is a project that involved the player writing their favorite games into a text file that holds the data.  [Run it on Replit.] (https://replit.com/@vectorsoldier/4-24-bulk-add-teacher-solution?v=1)
+4-24 Bulk add teacher solution (W15 Recap) is a project that involved the player writing their favorite games into a text file that holds the data.  [Run it on Replit.](https://replit.com/@vectorsoldier/4-24-bulk-add-teacher-solution?v=1)
